@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "titulo":"Homem Aranha: Através do Aranhaverso",
+        "categoria":"Filme",
+        "plataforma":"Netflix",
+        "nota":10.0,
+        "status":"Assistido",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFFZKnk5Vi8xKbJ01FAjh0TXegN4KSHuz2Xw6YF8C6Q&s=10"
+    },
+    {
+    
+        "id":2,
+        "titulo":"Meu Malvado Favorito 4",
+        "categoria":"Filme",
+        "plataforma":"Netflix",
+        "nota":7.0,
+        "status":"Assistir",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmwajpTODSXlWwvFkujOeeyQbn2PULwTukkc-Rcy7Bg&s"
+    
+    },
+    {
+    
+        "id":3,
+        "titulo":"Bel-Air",
+        "categoria":"Serie",
+        "plataforma":"Netflix",
+        "nota":8.0,
+        "status":"Assistir",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvAToBNXwSHDp2rAIjVGJU4Rm3not77RvBHG6FMxXaw&s=10"
+    },
+    {
+    
+        "id":4,
+        "titulo":"The Mentalista",
+        "categoria":"Serie",
+        "plataforma":"Netflix",
+        "nota":10.0,
+        "status":"Assistir",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle18g0HCpa2buuKbwY0Co2LqnSpOrDNHap8Bc09Pjzw&s=10"
+    
+    },
+    {
+    
+        "id":5,
+        "titulo":"Roblox",
+        "categoria":"Jogo",
+        "plataforma":"PC / Console",
+        "nota":10.0,
+        "status":"Abaixado",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbFIWNotZNKxcXCulAm-pHus2twZcWPTxzSLhoctuZkQ&s=10"
+    
+    },
+    {
+    
+        "id":6,
+        "titulo":"Fortnite",
+        "categoria":"Jogo",
+        "plataforma":"PC / Console",
+        "nota":10.0,
+        "status":"Abaixar",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT342uOELfF57Nz_KjjulvuqPSExfjZyRyg5e1lRUntVQ&s=10"
+    
+    }
+]

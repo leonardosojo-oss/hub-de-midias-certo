@@ -22,14 +22,27 @@ async function adicionarItem(event){
     event.preventDefault();
 
     const novoItem = { 
-        id: ,
-        titulo: , 
-        categoria: , 
-        plataforma: ,
-        nota: ,
-        status:
+        id: Date.now(),
+        titulo: document.getElementById('titulo').value, 
+        categoria: document.getElementById('categoria').value, 
+        plataforma: document.getElementById('plataforma').value,
+        nota: parseFloat(document.getElementById('nota').value),
+        status: "Jogando"
+    };
+
+    try{
+        colecaoMidia.push(novoItem);
+        renderizarGrid(colecaoMidia);
+
+        document.getElementById('form-midia').requestFullscreen();
+        alert('Item adicionando à lista com suss')
     }
 }
+
+    
+
+
+
 
 function renderizarGrid(lista){
     const container = document.getElementById('catalogo-grid');
